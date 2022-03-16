@@ -4,11 +4,16 @@
 * discord: Irina Komarova (@kmrvais)
 * telegram: @kmrvais
 ********* 
+I have experience as a front-end developer in a small team. The goal of my training is 
+to grow into a front-end engineer
+, gain more knowledge of JS and frameworks.
+********* 
 ##Skills:
-* HTML, CSS, Sass
+* HTML, CSS, Sass, BEM
 * JavaScript Basics
 * Adobe Photoshop, Figma
 * Git
+* PHPStorm
 ********* 
 ##Code example
 Find the odd int (Kata codewars):
@@ -35,4 +40,17 @@ function findOdd(A) {
 }
 ```
 ********* 
+##Work experience
+I have experience as a front-end developer.
+
+educational project: [https://github.com/kmrvais/els-test.git]()
+********* 
+##Education
+Russia, Amur State University, Department of Mathematics and Computer Science
+
+Сourse learn.javascript.ru - JavaScript/​DOM/​Interfaces
+*********
+##English
+A2
+*********
 
