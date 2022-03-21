@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+}
+
+.item {
+    background-color: deeppink;
+    height: 50px;
+    margin: 0 5px;
+    width: 50px;
+}
